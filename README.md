@@ -1,0 +1,11 @@
+# Netflix_PK-Products
+
+- Esse é um projeto que eu fiz com a intenção de apenas testar minha habilidades.
+
+- Não tem fins lucrativos e serve apenas como teste de capacidade hehe.
+
+- Lá não salva nenhuma informação e também tem alguns detelhes que ta pra descobrir que é falso. [NETFLIX](https://pablo-kennediy.github.io/Netflix_PK-Products/)
+
+Amo desenvolvimento por conta disso. São tantas formas de se trabalhar com as informações hoje em dia.
+
+![Assinatura](https://user-images.githubusercontent.com/98966014/202895623-10e47c34-a8cb-4204-84ff-da275d64760d.png)
