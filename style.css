@@ -1,0 +1,162 @@
+body{
+    margin: auto;
+    padding: auto;
+    position: relative;
+    background: url('fundoNetflix.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: white;
+}
+a#saibaMais{
+    color: blue;
+}
+div.mascara{
+    background-color: rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    margin: auto;
+}
+div.flex-container{
+    margin-left: 50%;
+}
+.bloco{
+    max-width: 600px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.777);
+    margin: auto;
+}
+img.logo_Netflix{
+    margin: auto;
+    padding: auto;
+    margin: 2px;
+}
+header{
+    position: relative;
+    text-align: justify;
+    margin: auto;
+}
+div.login_body{
+    display: block;
+    position: relative;
+    margin: auto;
+    width: 100%;
+    border-radius: 8px;
+    border-bottom: #999191 1px solid;
+    box-sizing: border-box;
+    transform: translateX(-50%);
+}
+.login_body h2{
+    width: 100%;
+    font-size: 35px;
+    color: #fff;
+}
+.login_body input{
+    height: 50px;
+    width: 100%;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 15px;
+    box-sizing: border-box;
+    outline: none;
+}
+.login_body input:hover{
+    background-color: #444;
+}
+.input_box{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.submit{
+    width: 100%;
+    height: 50px;
+    font-weight: bold;
+    margin: auto;
+}
+.login_body button{
+    border: none;
+    width: 100%;
+    margin: auto;
+    font-size: 16px;
+    color: #fff;
+    background-color: red;
+    border-radius: 3px;
+}
+.submit{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.login_body button:hover{
+    background-color: red;
+    cursor: pointer;
+}
+.support{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    color: rgb(115, 103, 103);
+    font-size: 20px;
+}
+.remember{
+    display: flex;
+    float: left;
+    margin: auto;
+}
+.help{
+    display: block;
+    float: right;
+    margin: auto;
+}
+.help a{
+    text-decoration: none;
+    color: #737373;
+}
+.help:hover{
+    text-decoration: underline;
+}
+.sing_up{
+    display: block;
+    margin: auto;
+    color: #737373;
+    font-size:  20px;
+}
+.sign_up a:hover{
+    text-decoration: underline;
+}
+.terms{
+    display: block;
+    margin: auto;
+    justify-content: center;
+    color: #737373;
+}
+footer{
+    display: block;
+    background-color: rgb(0, 0, 0);
+    color: #737373;
+    justify-content: space-between;
+    margin: auto;
+}
+.footer{
+    max-height: 400px;
+    min-height: 300px;
+    max-width: 1200px;
+}
+.tbFooter{
+    display: inline-block;
+    margin: auto;
+}
+footer p{
+    margin: auto;
+    padding: auto;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.duvida p{
+    width: 100%;
+    padding: 20px;
+    font-size: 20px;
+}
