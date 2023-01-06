@@ -8,4 +8,4 @@
 
 Amo desenvolvimento por conta disso. São tantas formas de se trabalhar com as informações hoje em dia.
 
-![Assinatura](https://user-images.githubusercontent.com/98966014/202895623-10e47c34-a8cb-4204-84ff-da275d64760d.png)
+![Logo](https://user-images.githubusercontent.com/98966014/211117458-df819586-ffad-4a0a-8145-c5153f4ca67c.png)
